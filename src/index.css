@@ -17,3 +17,7 @@
 
   --text-my-size: 15px;
 }
+
+html {
+  @apply font-poppins;
+}
