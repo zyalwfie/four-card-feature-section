@@ -1,0 +1,19 @@
+@import "tailwindcss";
+
+@theme {
+  --font-poppins: "Poppins", system-ui,
+    -apple-system,
+    BlinkMacSystemFont,
+    'Segoe UI',
+    sans-serif;
+
+  --color-primary-red: hsl(0, 78%, 62%);
+  --color-primary-cyan: hsl(180, 62%, 55%);
+  --color-primary-orange: hsl(34, 97%, 64%);
+  --color-primary-blue: hsl(212, 86%, 64%);
+  --color-secondary-grey-400: hsl(212, 6%, 44%);
+  --color-secondary-grey-500: hsl(234, 12%, 34%);
+  --color-base-white: hsl(0, 0%, 100%);
+
+  --text-my-size: 15px;
+}
