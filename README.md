@@ -8,15 +8,15 @@ Frontend Mentor challenges help developers improve their skills by working on re
 ## Table of contents
 
 - [Overview](#overview)
-  - [The challenge](#the-challenge)
-  - [Screenshot](#screenshot)
-  - [Links](#links)
+    - [The challenge](#the-challenge)
+    - [Screenshot](#screenshot)
+    - [Links](#links)
 - [My process](#my-process)
-  - [Built with](#built-with)
-  - [What I learned](#what-i-learned)
-  - [Continued development](#continued-development)
-  - [Useful resources](#useful-resources)
-  - [AI Collaboration](#ai-collaboration)
+    - [Built with](#built-with)
+    - [What I learned](#what-i-learned)
+    - [Continued development](#continued-development)
+    - [Useful resources](#useful-resources)
+    - [AI Collaboration](#ai-collaboration)
 - [Author](#author)
 - [Acknowledgments](#acknowledgments)
 
@@ -31,14 +31,14 @@ Users should be able to:
 
 ### Screenshot
 
-![Mobile Preview](./mobile-preview.png)
+![Mobile Preview](./public/mobile-preview.png)
 
-![Desktop Preview](./desktop-preview.png)
+![Desktop Preview](./public/desktop-preview.png)
 
 ### Links
 
-- Solution URL: https://www.frontendmentor.io/solutions/four-card-feature-section-react-tailwind-vite-xxxx
-- Live Site URL: https://your-username.github.io/your-repo-name/
+- Solution URL: #
+- Live Site URL: https://zyalwfie.github.io/four-card-feature-section/
 
 ## My Process
 
@@ -47,8 +47,8 @@ Users should be able to:
 - Semantic HTML5
 - Mobile-first workflow
 - CSS Grid & Flexbox
-- [React](https://reactjs.org/) - JS library
 - [Vite](https://vite.dev/guide/)
+- [React](https://reactjs.org/) - JS library
 - [Tailwind CSS](https://tailwindcss.com/docs/installation/using-vite) - For styles
 - [Google Fonts](https://fonts.google.com/specimen/Poppins?preview.script=Latn&preview.lang=en_Latn) - (Poppins – weights 200, 400, 600)
 
